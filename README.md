@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=e-Coder101&icon=5&color=3)](https://visitcount.itsvg.in)
 ---
 # 💫 About Me:
-👨‍💻 Passionate programmer focusing on TypeScript and .NET Framework, with skills in HTML5, CSS3, Bootstrap, and C#.<br><br>🚀 Currently mentored by [Sir Zia Khan](https://www.linkedin.com/in/ziaukhan/) in the Certified AI, Metaverse, and Web 3.0 Developer program.<br><br>🎯 Future goals: Collaborating with tech giants, launching a successful business, and becoming a mentor for future programming enthusiats.<br><br>⚽ My hobbies: Youtube, cricket, chess, making fun little programs and working out.
+👨‍💻 Passionate programmer focusing on TypeScript and .NET Framework, with skills in HTML5, CSS3, Bootstrap, and C#.<br><br>🚀 Currently mentored by [Sir Zia Khan](https://www.linkedin.com/in/ziaukhan/) and [Sir Daniyal Nagori](https://github.com/daniyalnagori) in the Certified AI, Metaverse, and Web 3.0 Developer program.<br><br>🎯 Future goals: Collaborating with tech giants, launching a successful business, and becoming a mentor for future programming enthusiats.<br><br>⚽ My hobbies: Youtube, cricket, chess, making fun little programs and working out.
 
 
 # 💻 Tech Stack:
